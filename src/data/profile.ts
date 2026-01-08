@@ -24,69 +24,22 @@ export const profile: Profile = {
 
   location: "Göttingen, Germany",
   email: "onyi.ugba@outlook.com",
-  lookingFor: " Immediate Full-Time Opportunities (Data Science, Data Engineering)",
+  lookingFor: " Immediate Full-Time Opportunities",
   avatar: "/images/avatar.svg",
   resumeUrl: "https://www.linkedin.com/in/onyi-ugba/",
   skills: [
-   // Core Languages & Scripting
-  "Python (Pandas, SQLAlchemy, GeoPandas, Scikit-learn)",
+  "Python",
   "SQL",
-  "Bash / Shell Scripting",
-
-  // Data Engineering & Pipelines
-  "ETL / ELT Pipelines",
-  "Incremental Loading",
   "Apache Airflow",
-  "Workflow Orchestration",
-  "Data Quality & Validation",
-
-  // Databases & Data Modeling
+  "ETL / ELT Pipelines",
   "PostgreSQL",
-  "Database Design",
-  "Schema Modeling",
-  "Data Constraints",
-  "SQL Performance Optimization",
-
-  // APIs & Data Integration
-  "REST APIs",
-  "API Integration",
-  "Rate Limiting",
-  "Geocoding APIs (Nominatim)",
-
-  // DevOps & Infrastructure
   "Docker",
-  "Containerized Data Services",
-  "Secrets Management",
-  "Structured Logging",
-
-  // Version Control & CI/CD
-  "Git",
-  "GitHub",
-  "GitHub Actions",
-  "CI/CD Pipelines",
-
-  // Analytics & Machine Learning
-  "Statistical Analysis",
-  "Predictive Modeling",
-  "Scikit-learn",
-  "Applied Machine Learning",
-  "Experimental Design",
-  "Model Evaluation & Validation",
-
-  // Engineering Practices
-  "Reproducible Data Workflows",
-  "Documentation & Data Lineage",
-  "Monitoring & Debugging",
-
-  // Collaboration & Professional Skills
-  "Pragmatic Problem Solving",
-  "Critical Thinking & Troubleshooting",
-  "Cross-Functional Collaboration",
-  "Technical Documentation",
-  "Attention to Detail",
-  "Stakeholder Communication",
-  "Decision Support Analytics",
-  "Continuous Learning & Growth Mindset"
+  "REST APIs",
+  "Incremental Loading",
+  "Data Modeling",
+  "Machine Learning",
+  "Time Series Forecasting",
+  "Git & GitHub",
   ],
   links: [
     { label: "GitHub", href: "https://github.com/Onyi-RICH" },
