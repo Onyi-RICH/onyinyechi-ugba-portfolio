@@ -29,6 +29,7 @@ export const projects: Project[] = [
       "Data Validation",
       "OpenStreetMap",
     ],
+    image: "/images/project-placeholder.svg",
     repo: "https://github.com/Onyi-RICH/OSM-berlin-poi-libraries-pipeline",
   },
 
@@ -44,6 +45,7 @@ export const projects: Project[] = [
       "Data Validation",
       "Analytics",
     ],
+    image: "/images/project-placeholder.svg",
     repo: "https://github.com/Onyi-RICH/nyc-schools-analysis",
   },
 
@@ -59,6 +61,7 @@ export const projects: Project[] = [
       "Streamlit",
       "Demand Forecasting",
     ],
+    image: "/images/project-placeholder.svg",
     repo: "https://github.com/Onyi-RICH/retail-demand-forcasting",
   },
 ];
