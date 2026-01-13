@@ -25,7 +25,7 @@ export const profile: Profile = {
   location: "Göttingen, Germany",
   email: "onyi.ugba@outlook.com",
   lookingFor: " Immediate Full-Time Opportunities",
-  avatar: "/images/avatar.jpeg",                   // Change .svg to .jpeg
+  avatar: "/images/avatar2.jpg",                   // Change .svg to .jpeg
   resumeUrl: "https://www.linkedin.com/in/onyi-ugba/",
   skills: [
   "Python",
