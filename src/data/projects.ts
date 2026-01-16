@@ -9,7 +9,7 @@ export type Project = {
 
 export const projects: Project[] = [
    {
-    title: "Insurance RAG Engine",
+    title: "PolicyAudit-RAG-Pipeline",
     description:
       "Designed and built a production-grade Retrieval-Augmented Generation (RAG) system for insurance/ legal policy analysis using Google Gemini, LangChain, and ChromaDB. Implemented a PDF ingestion and chunking pipeline that transforms insurance documents into a searchable vector database. Enabled hallucination-free, explainable AI responses by returning the exact policy text snippets used for each answer. Developed an interactive Streamlit UI supporting document upload, natural language queries, and source-grounded outputs.",
     tags: [
@@ -25,7 +25,7 @@ export const projects: Project[] = [
       "Explainable AI",
     ],
     repo: "https://github.com/Onyi-RICH/PolicyAudit-rag-engine",
-    image: "/images/project-placeholder.svg",
+    image: "/images/Streamlit-screenshot.png",
   },
   {
     title: "GitHub Issues ETL Pipeline",
