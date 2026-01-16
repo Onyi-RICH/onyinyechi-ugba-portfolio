@@ -33,7 +33,7 @@ export const projects: Project[] = [
       "Built a Dockerized Apache Airflow ETL pipeline to ingest and process nested GitHub API data. Reduced processing overhead by 40% using incremental loading and watermarking. Ensured 99%+ pipeline reliability through structured logging, automated retries, and Airflow Secrets Management. Modeled complex JSON responses into an analytical schema supporting historical event tracking and idempotent loads.",
     tags: ["Python", "Apache Airflow", "ETL / ELT", "Incremental Loading", "REST APIs", "PostgreSQL", "Docker", "Structured Logging",],
     repo: "https://github.com/Onyi-RICH/github-issues-airflow-etl",
-    image: "/images/project-placeholder.svg",
+    image: "/images/github_issues_etl_screenshot.png",
   },
   {
     title: "Berlin Library Geospatial Data Pipeline",
