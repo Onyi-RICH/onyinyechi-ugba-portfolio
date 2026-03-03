@@ -20,7 +20,7 @@ export const profile: Profile = {
   name: "Onyinyechi C. Ugba",
   role: "Data Science & Data Engineering Intern",
   summary:
-    "DataData and AI professional with 6+ years of experience delivering analytics, data engineering, and machine learning solutions across financial and business domains. Experienced in building production-grade data pipelines, Retrieval-Augmented Generation (RAG) systems, and ML models that improve data quality, operational efficiency, and decision-making. Strong at bridging data, engineering, and business requirements to transform complex information into scalable, actionable insights.",
+    "DataData and AI professional with several years of experience delivering analytics, data engineering, and machine learning solutions across financial and business domains. Experienced in building production-grade data pipelines, Retrieval-Augmented Generation (RAG) systems, and ML models that improve data quality, operational efficiency, and decision-making. Strong at bridging data, engineering, and business requirements to transform complex information into scalable, actionable insights.",
 
   location: "Göttingen, Germany",
   email: "onyi.ugba@outlook.com",
