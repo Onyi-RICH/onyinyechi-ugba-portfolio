@@ -41,7 +41,7 @@ export const profile: Profile = {
   "Time Series Forecasting",
   "Retrieval-Augmented Generation (RAG)",
   "LLMs (Google Gemini, LangChain)",
-  "Vector Databases (ChromaDB)"
+  "Vector Databases (ChromaDB)",
   "Git & GitHub",
   ],
   links: [
